@@ -4,14 +4,14 @@
 	<br>
 	<p>
 		<h2>
-            <b>Lista Maravilhosa de Projetos Open-Source</b>
+            <b>Melhores Projetos Open-Source</b>
         </h2>
 	</p>
 	<br>
 </div>
 <p align="center">
 	<sub><i>
-       Lista com links de projetos open-source. Dividido por linguagem, idiomas e país de origem do projeto.
+       links de projetos open-source. Dividido por linguagem, idiomas e país de origem do projeto.
     </i></sub>
   <br/>
 </p>
@@ -27,7 +27,7 @@
 
 :one: [Quero alterar/incluir meu/um projeto](meu-projeto.md)
 
-:two: [Quero contribuir com um projeto](contribuindo.md)
+:two: [Quero contribuir com um projeto melhor](contribuindo.md)
 
 :three: [Quero contribuir com a Lista Maravilhosa](contribuindo-lista.md)
 
